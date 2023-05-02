@@ -1,0 +1,274 @@
+[
+    {
+        "id": "equipo-01",
+        "titulo": "Vaporesso Sky Solo",
+        "imagen": "./img/equipos/01.png",
+        "categoria": {
+            "nombre": "equipos",
+            "id": "equipos"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "equipo-02",
+        "titulo": "Uwell Whirl",
+        "imagen": "./img/equipos/02.png",
+        "categoria": {
+            "nombre": "equipos",
+            "id": "equipos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "equipo-03",
+        "titulo": "Well Aeglos P1",
+        "imagen": "./img/equipos/03.png",
+        "categoria": {
+            "nombre": "equipos",
+            "id": "equipos"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "equipo-04",
+        "titulo": "SMOK Novo 2 Kit",
+        "imagen": "./img/equipos/04.png",
+        "categoria": {
+            "nombre": "equipos",
+            "id": "equipos"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "equipo-05",
+        "titulo": "SMOK Osmall",
+        "imagen": "./img/equipos/05.png",
+        "categoria": {
+            "nombre": "equipos",
+            "id": "equipos"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "equipo-06",
+        "titulo": "Vaporesso Luxe 80S",
+        "imagen": "./img/equipos/06.png",
+        "categoria": {
+            "nombre": "equipos",
+            "id": "equipos"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "equipo-07",
+        "titulo": "Descartable Zomo 1500 Menthol",
+        "imagen": "./img/equipos/07.png",
+        "categoria": {
+            "nombre": "equipos",
+            "id": "equipos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "equipo-08",
+        "titulo": "Descartable Zomo 1500 Fruit",
+        "imagen": "./img/equipos/08.png",
+        "categoria": {
+            "nombre": "equipos",
+            "id": "equipos"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "equipo-09",
+        "titulo": "Descartable Fiume 1500 Fruit",
+        "imagen": "./img/equipos/09.png",
+        "categoria": {
+            "nombre": "equipos",
+            "id": "equipos"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "liquido-01",
+        "titulo": "Evil Salt 30ml",
+        "imagen": "./img/liquidos/01.jpg",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-02",
+        "titulo": "Evil Juice 60ml",
+        "imagen": "./img/liquidos/02.jpg",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-03",
+        "titulo": "Evil Juice 60ml",
+        "imagen": "./img/liquidos/03.jpg",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-04",
+        "titulo": "Nasty Salt Silver Blend",
+        "imagen": "./img/liquidos/04.png",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-05",
+        "titulo": "Nasty Salt Cushman Strawberry",
+        "imagen": "./img/liquidos/05.png",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-06",
+        "titulo": "Nasty Liquid Tobacco Menthol",
+        "imagen": "./img/liquidos/06.png",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-07",
+        "titulo": "Nasty Liquid Vanilla Cuban",
+        "imagen": "./img/liquidos/07.png",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-08",
+        "titulo": "Nasty Liquid Grape",
+        "imagen": "./img/liquidos/08.png",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-09",
+        "titulo": "Zomo Liquid 60ml Fruit",
+        "imagen": "./img/liquidos/09.png",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-10",
+        "titulo": "Zomo Salt 30ml",
+        "imagen": "./img/liquidos/10.png",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-11",
+        "titulo": "Nasty Salt ASAP Grape 30ml",
+        "imagen": "./img/liquidos/11.png",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquido-12",
+        "titulo": "Gun Smoke Salt 30ml",
+        "imagen": "./img/liquidos/12.png",
+        "categoria": {
+            "nombre": "liquidos",
+            "id": "liquidos"
+        },
+        "precio": 1000
+    },
+
+    {
+        "id": "repuesto-01",
+        "titulo": "Resistencias y Cartuchos",
+        "imagen": "./img/repuesto/01.png",
+        "categoria": {
+            "nombre": "repuesto",
+            "id": "repuesto"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "repuesto-02",
+        "titulo": "Resistencias y Cartuchos",
+        "imagen": "./img/repuesto/02.png",
+        "categoria": {
+            "nombre": "repuesto",
+            "id": "repuesto"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "repuesto-03",
+        "titulo": "Resistencias y Cartuchos",
+        "imagen": "./img/repuesto/03.png",
+        "categoria": {
+            "nombre": "repuesto",
+            "id": "repuesto"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "repuesto-04",
+        "titulo": "Resistencias y Cartuchos",
+        "imagen": "./img/repuesto/04.png",
+        "categoria": {
+            "nombre": "repuesto",
+            "id": "repuesto"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "repuesto-05",
+        "titulo": "Baterias",
+        "imagen": "./img/repuesto/05.png",
+        "categoria": {
+            "nombre": "repuesto",
+            "id": "repuesto"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "repuesto-06",
+        "titulo": "Baterias",
+        "imagen": "./img/repuesto/06.png",
+        "categoria": {
+            "nombre": "repuesto",
+            "id": "repuesto"
+        },
+        "precio": 1000
+    }
+]
